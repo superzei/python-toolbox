@@ -1,0 +1,8 @@
+mail:
+  connection:
+    host: smtp.office365.com
+    port: 587
+    user: sender@mail.com
+    passwd: password
+  recipients:
+    - example@mail.com

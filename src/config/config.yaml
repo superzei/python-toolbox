@@ -1,0 +1,21 @@
+another:
+  config:
+  - a:
+    - 1
+    - 2
+    - 3
+  - b:
+    - 1
+    - 2
+    - 3
+    - 4
+example:
+  config:
+  - 1
+  - 2
+  - 3
+filtered_config:
+- name: something1
+  value: 11
+- name: something2
+  value: 20
